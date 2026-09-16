@@ -233,6 +233,7 @@ for word, true_tag, pred_tag in comparisons:
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/ab946ef4-3c69-4022-9c30-b1d4de6aaf4f" />
 
 ### Sample Text Prediction
+<img width="442" height="372" alt="image" src="https://github.com/user-attachments/assets/cfe0973f-bf7c-4151-8e82-e370c667135c" />
 
 
 ## RESULT
