@@ -32,9 +32,9 @@ Train the model over multiple epochs, tracking loss.
 
 ## PROGRAM
 
-### Name: Karthikeyan C
+### Name: Harsshitha lakshmanan
 
-### Register Number: 212224040152
+### Register Number: 212223230075
 
 ```python
 import pandas as pd
@@ -256,8 +256,8 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 
 
 ### Sample Text Prediction
+<img width="538" height="540" alt="image" src="https://github.com/user-attachments/assets/085cf911-f761-47f8-94b7-a86f141dd307" />
 
-<img width="650" height="467" alt="image" src="https://github.com/user-attachments/assets/cb6bbf55-61ff-4d83-b535-b3a6fc8f93ce" />
 
 
 ## RESULT
